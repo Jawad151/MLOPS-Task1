@@ -1,6 +1,6 @@
 from src import utils
 
-if name == "__main__":
+if __name__ == "__main__":
     number1   = float(input("Enter Number 1: "))
     number2   = float(input("Enter Number 2: "))
     operation = input("Enter Operation: ")
