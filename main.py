@@ -1,4 +1,4 @@
-from src import utils
+from src.utils import add,sub,multiply,divide
 
 if __name__ == "__main__":
     number1   = float(input("Enter Number 1: "))
